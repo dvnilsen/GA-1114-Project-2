@@ -15,6 +15,11 @@ HTML, CSS, JS, SQL, Express, EJS, Sequelize, API calls.
 ## API:
 https://api-ninjas.com/api/timezone - The Timezone API provides timezone data for any latitude/longitude coordinates or city in the world. 
 
+Example: 
+const url = "https://api.api-ninjas.com/v1/timezone?city=sandiego" 
+const config = { headers: { X-Api-Key: API_KEY }}
+axios.get(url, config)
+
 ## Wireframes:
 ![ERD](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/ERD.png "ERD")  
 ![RESTFUL](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/RESTFUL.png "RESTFUL")  
