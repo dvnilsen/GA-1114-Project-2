@@ -16,8 +16,8 @@ HTML, CSS, JS, SQL, Express, EJS, Sequelize, API calls.
 https://api-ninjas.com/api/timezone - The Timezone API provides timezone data for any latitude/longitude coordinates or city in the world. 
 
 ## Wireframes:
-![ERD](https://github.com/dvnilsen/GA-1114-Project-1/blob/main/Assets/Wireframe_1.png "ERD")  
-![RESTFUL](https://github.com/dvnilsen/GA-1114-Project-1/blob/main/Assets/Wireframe_1.png "RESTFUL")  
+![ERD](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/ERD.png "ERD")  
+![RESTFUL](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/RESTFUL.png "RESTFUL")  
 
 
 ## MVP goals:
