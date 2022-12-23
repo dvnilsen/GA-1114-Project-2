@@ -20,10 +20,15 @@ const url = "https://api.api-ninjas.com/v1/timezone?city=sandiego"
 const config = { headers: { X-Api-Key: API_KEY }}
 axios.get(url, config)
 
-## Wireframes:
+## ERD and Restful:
 ![ERD](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/ERD.png "ERD")  
 ![RESTFUL](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/RESTFUL.png "RESTFUL")  
 
+## Wrireframes:
+![1](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/wireframe_1.png "1")  
+![2](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/wireframe_2.png "2")
+![3](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/wireframe_3.png "3")
+![4](https://github.com/dvnilsen/GA-1114-Project-2/blob/main/Assets/wireframe_4.png "4")
 
 ## MVP goals:
 1. Allow users to create a username and password to sign up and log into the app. 
